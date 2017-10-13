@@ -10,7 +10,7 @@ import java.awt.Point;
 
 /**
  *
- * @author Thinkpad
+ * @author Ketchum
  */
 public class Myzoo {
     
@@ -18,7 +18,7 @@ public class Myzoo {
      public static void main(String[] args){
         
         //Lab5Zoo probs = new Lab5Zoo();
-        Sprite ap=new Sprite("src/dargon.png", new Point (50, 50), new Dimension(150, 150));
+        Sprite myZoo=new Sprite("src/dargon.png", new Point (50, 50), new Dimension(150, 150));
        
         ZooWindow zoo= new ZooWindow();
  

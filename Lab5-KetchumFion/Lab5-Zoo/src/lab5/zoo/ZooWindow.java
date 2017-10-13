@@ -21,12 +21,8 @@ public class ZooWindow extends Frame implements Runnable{
 
     //Constructor
     public ZooWindow(/*JoesZoo zoo*/){
-        //myOwner = zoo;
-      
-       addSprite("src/dargon.png", new Point (150, 150), new Dimension(150, 150));
-      
-       
-      
+        //myOwner = zoo;      
+       addSprite("src/dargon.png", new Point (150, 150), new Dimension(150, 150));             
         //run();
         init();
 

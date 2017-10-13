@@ -11,7 +11,7 @@ import java.awt.Dimension;
 
 /**
  *
- * @author Thinkpad
+ * @author Ketchum
  */
 public class Lab5Zoo {
 
