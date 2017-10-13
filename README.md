@@ -1,6 +1,6 @@
 # XJTLU CSE105 Open Source Project
 17/18 XJTLU CSE105 
-> Powered by @Ketchumfion @EasonChiu
+> Powered by @Ketchumfion @EasonChiu @zty_24460
 
 ### 项目介绍：
 >- 此项目为西交利物浦大学计算机系学生建立的开源项目，旨在帮助同学更好的学习CSE105这门课程，此项目会定期开源每周的CSE105 Java Lab代码，同时也非常希望各位大佬们能够参与到项目中来。
